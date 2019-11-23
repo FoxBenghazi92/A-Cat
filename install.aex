@@ -1,0 +1,8 @@
+chmod 777 A-CaT.py
+clear
+apt install toilet figlet pip -y
+pkg install toilet figlet pip -y
+pip install --upgrade pip
+pip install requests
+clear
+python3 A-CaT.py
