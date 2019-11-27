@@ -127,7 +127,7 @@ num = randint(1,2)
 if num == 1:
 	os.system("cls || clear")
 	sleep(0.1)
-	os.system("toilet -f big --filter metal 'A CaT'")
+	os.system("toilet -f bigmono12 --filter metal 'A CaT'")
 else:
 	os.system("cls || clear")
 	sleep(0.1)
@@ -164,7 +164,7 @@ elif inpo == "0" or inpo == "00":
 else:
 	print("\n \t try aging \n")
 	enter=str(input("[ Enter ] "))
-	os.system("python3 Acat.py")
+	os.system("python3 A-CaT.py")
 
 
 
