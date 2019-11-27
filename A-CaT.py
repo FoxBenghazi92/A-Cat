@@ -162,7 +162,7 @@ elif inpo == "0" or inpo == "00":
 	print("\n \t ok \n ")
 	sys.exit()
 else:
-	print("\n \t try aging \n")
+	print("\n \t Try again \n")
 	enter=str(input("[ Enter ] "))
 	os.system("python3 A-CaT.py")
 
